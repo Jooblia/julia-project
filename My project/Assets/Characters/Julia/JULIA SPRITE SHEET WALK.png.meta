@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 84350f0dd18c21d459c99e7abc18313a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9017857397316994408
+    second: JULIA SPRITE SHEET WALK_0
+  - first:
+      213: -5073158352586330005
+    second: JULIA SPRITE SHEET WALK_1
+  - first:
+      213: 6614077818304734623
+    second: JULIA SPRITE SHEET WALK_2
+  - first:
+      213: 376010075802753034
+    second: JULIA SPRITE SHEET WALK_3
+  - first:
+      213: 5930038948863619254
+    second: JULIA SPRITE SHEET WALK_4
+  - first:
+      213: -8766136253637479137
+    second: JULIA SPRITE SHEET WALK_5
+  - first:
+      213: -3227424310468387642
+    second: JULIA SPRITE SHEET WALK_6
+  - first:
+      213: 3201283127482840558
+    second: JULIA SPRITE SHEET WALK_7
+  - first:
+      213: -2834904384344520943
+    second: JULIA SPRITE SHEET WALK_8
+  - first:
+      213: 4099102296890244412
+    second: JULIA SPRITE SHEET WALK_9
+  - first:
+      213: 8088025111407785954
+    second: JULIA SPRITE SHEET WALK_10
+  - first:
+      213: 5350786696461492518
+    second: JULIA SPRITE SHEET WALK_11
+  - first:
+      213: 5014480645956730715
+    second: JULIA SPRITE SHEET WALK_12
+  - first:
+      213: 3220215170963692895
+    second: JULIA SPRITE SHEET WALK_13
+  - first:
+      213: -2651366749655648640
+    second: JULIA SPRITE SHEET WALK_14
+  - first:
+      213: 2068145936870327740
+    second: JULIA SPRITE SHEET WALK_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 114
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89abacdc9722ad280800000000000000
+      internalID: -9017857397316994408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 114
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6039c86b558899b0800000000000000
+      internalID: -5073158352586330005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 114
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9528dc9bbce9cb50800000000000000
+      internalID: 6614077818304734623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 114
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08d038fb2bd73500800000000000000
+      internalID: 376010075802753034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 114
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b03f3b510bbb4250800000000000000
+      internalID: 5930038948863619254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 114
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15b345b58d685680800000000000000
+      internalID: -8766136253637479137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 114
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc521370b2e533d0800000000000000
+      internalID: -3227424310468387642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 114
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f0171b0e3d6c20800000000000000
+      internalID: 3201283127482840558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11782fe7b7568a8d0800000000000000
+      internalID: -2834904384344520943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 35
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d712032dfe2e830800000000000000
+      internalID: 4099102296890244412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 35
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e776e39cff6e3070800000000000000
+      internalID: 8088025111407785954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 35
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62129779620d14a40800000000000000
+      internalID: 5350786696461492518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 35
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f72536493079540800000000000000
+      internalID: 5014480645956730715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 35
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d5d95f2a080bc20800000000000000
+      internalID: 3220215170963692895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 35
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863e7d1df3743bd0800000000000000
+      internalID: -2651366749655648640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JULIA SPRITE SHEET WALK_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 35
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c2d6a5c783bc10800000000000000
+      internalID: 2068145936870327740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
